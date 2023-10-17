@@ -44,10 +44,10 @@ In this project we use the following tools and libraries to complete the analysi
 
 | Contributors    | Github Profile                         |
 | ----------------| -------------------------------------- |
-| Choon Sien      | `https://github.com/sienchoon`           |    
+| Choon Sien      | https://github.com/sienchoon           |    
 | Ekjyot          |                                        |
-| Parminder       | `https://github.com/parmbasra`           |
-| Soahila         | `https://github.com/S-haila`             |
+| Parminder       | https://github.com/parmbasra           |
+| Soahila         | https://github.com/S-haila             |
 
 
 
