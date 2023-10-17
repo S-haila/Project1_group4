@@ -30,17 +30,25 @@ In this project we use the following tools and libraries to complete the analysi
 #
 
 
-# Project Workflow 
+# 🔄 Project Workflow 
 
-[![](https://mermaid.ink/img/pako:eNqNkUFPwzAMhf-KldMmbRJD4tID0mgHDISYGLd1B6t124zUqVIXmNb9d9KMw4SEIKco9vccv3dQmc1JRaow9iOr0Am8JimDP_PNytkdZQLPnRjNtIXp9LpfshaNBnIUBPpsjHUo2nIPN6MXagldVo19I8SjhN7J2Aa-dcYwCJ_E46AVV3YAF5t5UVbIuhVkuLyYzbaDwPIQ27rRhiDxs47n4NpWqA32cPsTvfoLXaGre7jbrImp9Hv8Z9zibbe30sP9OfXLpMAtT-sZ8j_jMpR6eBjNGc2-1e04VC1npmuDdY_ea-8dS7ByqyaqJlejzn0yh-CakopqSlXkrzkV2BlJVcpH34qd2PWeMxWJ62iiusZnQ4nG0mGtogJN618p12Ld0yntEPrxC-acpyk?type=png)](https://mermaid.live/edit#pako:eNqNkUFPwzAMhf-KldMmbRJD4tID0mgHDISYGLd1B6t124zUqVIXmNb9d9KMw4SEIKco9vccv3dQmc1JRaow9iOr0Am8JimDP_PNytkdZQLPnRjNtIXp9LpfshaNBnIUBPpsjHUo2nIPN6MXagldVo19I8SjhN7J2Aa-dcYwCJ_E46AVV3YAF5t5UVbIuhVkuLyYzbaDwPIQ27rRhiDxs47n4NpWqA32cPsTvfoLXaGre7jbrImp9Hv8Z9zibbe30sP9OfXLpMAtT-sZ8j_jMpR6eBjNGc2-1e04VC1npmuDdY_ea-8dS7ByqyaqJlejzn0yh-CakopqSlXkrzkV2BlJVcpH34qd2PWeMxWJ62iiusZnQ4nG0mGtogJN618p12Ld0yntEPrxC-acpyk)
-
-
-
-# Time-frame
+ [![](https://mermaid.ink/img/pako:eNqNkUFPwzAMhf-KldMmbRJD4tID0mgHDISYGLd1B6t124zUqVIXmNb9d9KMw4SEIKco9vccv3dQmc1JRaow9iOr0Am8JimDP_PNytkdZQLPnRjNtIXp9LpfshaNBnIUBPpsjHUo2nIPN6MXagldVo19I8SjhN7J2Aa-dcYwCJ_E46AVV3YAF5t5UVbIuhVkuLyYzbaDwPIQ27rRhiDxs47n4NpWqA32cPsTvfoLXaGre7jbrImp9Hv8Z9zibbe30sP9OfXLpMAtT-sZ8j_jMpR6eBjNGc2-1e04VC1npmuDdY_ea-8dS7ByqyaqJlejzn0yh-CakopqSlXkrzkV2BlJVcpH34qd2PWeMxWJ62iiusZnQ4nG0mGtogJN618p12Ld0yntEPrxC-acpyk?type=png)](https://mermaid.live/edit#pako:eNqNkUFPwzAMhf-KldMmbRJD4tID0mgHDISYGLd1B6t124zUqVIXmNb9d9KMw4SEIKco9vccv3dQmc1JRaow9iOr0Am8JimDP_PNytkdZQLPnRjNtIXp9LpfshaNBnIUBPpsjHUo2nIPN6MXagldVo19I8SjhN7J2Aa-dcYwCJ_E46AVV3YAF5t5UVbIuhVkuLyYzbaDwPIQ27rRhiDxs47n4NpWqA32cPsTvfoLXaGre7jbrImp9Hv8Z9zibbe30sP9OfXLpMAtT-sZ8j_jMpR6eBjNGc2-1e04VC1npmuDdY_ea-8dS7ByqyaqJlejzn0yh-CakopqSlXkrzkV2BlJVcpH34qd2PWeMxWJ62iiusZnQ4nG0mGtogJN618p12Ld0yntEPrxC-acpyk)
 
 
+
+# ⏰ Project Time-frame
+
+[![](https://mermaid.ink/img/pako:eNp1UjtPAzEM_itW5gwUhBA3QkVhqKgo4y25xNea5lElzoCq_nd8LdceAxmiyPlednJQNjlUjWIK6CliG0EWE3uEz98apB5WOX2hZZidAUXOlCK8RWIyngrFzYg5I4Z18wjvllOHGRpY5FT3sERkweqRCU-ZsNfwgQVNttsreXY7IT-nsCeJNMJgbthomKPHjWGJasrub7IxsDADRouyTZLN7kbxQdtJosnd_cT4BdF1xu5AJAWI_5lE62uR0kTm4W_-QAycYEH8Wjt96egqeiJNJ7bK0m1kM1jpi9e6doHK4KW0CpiDIScPeBhEWsVb6bRVjRwd9qZ6blUbjwI1ldP6O1rVcK6oVd07mdyczCaboJre-CJVdMQpL8-f4vQ3jj8g8LJW?type=png)](https://mermaid.live/edit#pako:eNp1UjtPAzEM_itW5gwUhBA3QkVhqKgo4y25xNea5lElzoCq_nd8LdceAxmiyPlednJQNjlUjWIK6CliG0EWE3uEz98apB5WOX2hZZidAUXOlCK8RWIyngrFzYg5I4Z18wjvllOHGRpY5FT3sERkweqRCU-ZsNfwgQVNttsreXY7IT-nsCeJNMJgbthomKPHjWGJasrub7IxsDADRouyTZLN7kbxQdtJosnd_cT4BdF1xu5AJAWI_5lE62uR0kTm4W_-QAycYEH8Wjt96egqeiJNJ7bK0m1kM1jpi9e6doHK4KW0CpiDIScPeBhEWsVb6bRVjRwd9qZ6blUbjwI1ldP6O1rVcK6oVd07mdyczCaboJre-CJVdMQpL8-f4vQ3jj8g8LJW)
 
 # Contributors 
+
+| Contributors    | Github Profile                         |
+| ----------------| -------------------------------------- |
+| Choon Sien      | `https://github.com/sienchoon`           |    
+| Ekjyot          |                                        |
+| Parminder       | `https://github.com/parmbasra`           |
+| Soahila         | `https://github.com/S-haila`             |
+
 
 
 # Licensing
