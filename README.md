@@ -4,7 +4,8 @@
 
 # About
 
-We are a group of 4 full-time workers contributing to a project to showcase our knowledge<br>
+We are a group of 4 full-time working professionals contributing to a project to showcase our<br />
+knowledge
 
 
 # Data-set 
@@ -14,7 +15,8 @@ We are a group of 4 full-time workers contributing to a project to showcase our 
 
 ### 🧰 Languages and Tools
 
-In this project we use the following tools and libraries to complete the analysis and project
+In this project we use the following tools and libraries to complete the analysis and project <br />
+<br />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -47,7 +49,7 @@ In this project we use the following tools and libraries to complete the analysi
 | Choon Sien      | https://github.com/sienchoon           |    
 | Ekjyot          |                                        |
 | Parminder       | https://github.com/parmbasra           |
-| Soahila         | https://github.com/S-haila             |
+| Sohaila         | https://github.com/S-haila             |
 
 
 
