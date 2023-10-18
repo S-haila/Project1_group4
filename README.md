@@ -33,7 +33,7 @@ In this project we outline the tools, language and libraries required to complet
 <br />
 <br />
 
-<br /> ## 🔄 Project Workflow 
+## 🔄 Project Workflow 
 
  [![](https://mermaid.ink/img/pako:eNqNkUFPwzAMhf-KldMmbRJD4tID0mgHDISYGLd1B6t124zUqVIXmNb9d9KMw4SEIKco9vccv3dQmc1JRaow9iOr0Am8JimDP_PNytkdZQLPnRjNtIXp9LpfshaNBnIUBPpsjHUo2nIPN6MXagldVo19I8SjhN7J2Aa-dcYwCJ_E46AVV3YAF5t5UVbIuhVkuLyYzbaDwPIQ27rRhiDxs47n4NpWqA32cPsTvfoLXaGre7jbrImp9Hv8Z9zibbe30sP9OfXLpMAtT-sZ8j_jMpR6eBjNGc2-1e04VC1npmuDdY_ea-8dS7ByqyaqJlejzn0yh-CakopqSlXkrzkV2BlJVcpH34qd2PWeMxWJ62iiusZnQ4nG0mGtogJN618p12Ld0yntEPrxC-acpyk?type=png)](https://mermaid.live/edit#pako:eNqNkUFPwzAMhf-KldMmbRJD4tID0mgHDISYGLd1B6t124zUqVIXmNb9d9KMw4SEIKco9vccv3dQmc1JRaow9iOr0Am8JimDP_PNytkdZQLPnRjNtIXp9LpfshaNBnIUBPpsjHUo2nIPN6MXagldVo19I8SjhN7J2Aa-dcYwCJ_E46AVV3YAF5t5UVbIuhVkuLyYzbaDwPIQ27rRhiDxs47n4NpWqA32cPsTvfoLXaGre7jbrImp9Hv8Z9zibbe30sP9OfXLpMAtT-sZ8j_jMpR6eBjNGc2-1e04VC1npmuDdY_ea-8dS7ByqyaqJlejzn0yh-CakopqSlXkrzkV2BlJVcpH34qd2PWeMxWJ62iiusZnQ4nG0mGtogJN618p12Ld0yntEPrxC-acpyk)
 
