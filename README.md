@@ -52,7 +52,7 @@ Completion of project: `19 October 2023`
 | <center>Contributors</center>    | <center>Github Profile</center>                         |
 | ----------------| -------------------------------------- |
 | <center>Choon Sien</center>      | https://github.com/sienchoon           |    
-| <center>Ekjyot</center> |                                        |
+| <center>Ekjyot</center> |   https://github.com/Ework1989                                     |
 | <center>Parminder</center>| https://github.com/parmbasra           |
 | <center>Sohaila</center>| https://github.com/S-haila             |
 
