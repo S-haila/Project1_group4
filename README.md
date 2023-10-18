@@ -25,7 +25,6 @@ In this project we outline the tools, language and libraries required to complet
 <img align="left" alt="Git" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="80x" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Matplotlib" width="80px" style="padding-right:12px;" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
 <img align="left" alt="Pandas" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="Google" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
