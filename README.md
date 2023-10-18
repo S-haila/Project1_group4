@@ -6,7 +6,6 @@
 
 We are a group of 4 full-time working professionals contributing to a project to showcase our knowledge and learning capabilities through Monash Data Analysis BootCamp Education.<br />
 
-
 ## 🖥 Project Brief
 
 Our project aims to conduct a comparative analysis of health and sanitation data in two countries, Afghanistan and Senegal, over a 2-year time point. The primary objective is to assess improvements or deteriorations in the health and sanitation industry within these nations. The project will utilize Health Nutrition and Population Statistics data categorized by Wealth Quintiles to derive meaningful insights.
