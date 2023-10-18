@@ -4,8 +4,7 @@
 
 ## 🔍 About
 
-We are a group of 4 full-time working professionals contributing to a project to showcase our<br />
-knowledge and learning capabilities through Monash BootCamp Education.<br />
+We are a group of 4 full-time working professionals contributing to a project to showcase our knowledge and learning capabilities through Monash Data Analysis BootCamp Education.<br />
 
 
 ## 🖥 Project Brief
