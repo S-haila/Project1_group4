@@ -57,7 +57,7 @@ Completion of project: `19 October 2023`
 
 
 
-## Licensing
+## Data Resource
 The World Bank Data Catalog <br>
 Health Nutrition and Population Statistics by Wealth Quintile
 
